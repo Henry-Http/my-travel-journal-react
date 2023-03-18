@@ -1,0 +1,32 @@
+export default [
+  {
+    id: 1,
+    locationImg: "https://img.freepik.com/premium-vector/pin-point-icon-with-red-map-location-pointer-symbol-isolated-white-background_120819-234.jpg",
+    coverImg: "https://source.unsplash.com/WLxQvbMyfas",
+    location: "Japan",
+    maps: "view on Google Maps",
+    title: "Mount Fuji",
+    date: `12/1/2021- ${new Date().toLocaleDateString("en-UK")}`,
+    info: "Mount Fuji is the tallest mountain in Japan standing at 3,776 meters (12,380 feet). Mount Fiji is thee single most popular tourist site in Japan, for both Japanese and foreign tourists",
+  },
+  {
+    id: 2,
+    locationImg: "https://img.freepik.com/premium-vector/pin-point-icon-with-red-map-location-pointer-symbol-isolated-white-background_120819-234.jpg",
+    coverImg: "https://source.unsplash.com/JmuyB_LibRo",
+    location: "Australia",
+    maps: "view on Google Maps",
+    title: "Sydney Opera House",
+    date: `27/5/2021- ${new Date().toLocaleDateString("en-UK")}`,
+    info: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+  },
+  {
+    id: 3,
+    locationImg: "https://img.freepik.com/premium-vector/pin-point-icon-with-red-map-location-pointer-symbol-isolated-white-background_120819-234.jpg",
+    coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
+    location: "NORWAY",
+    maps: "view on Google Maps",
+    title: "Geirangerfjord",
+    date: `01/09/2021- ${new Date().toLocaleDateString("en-UK")}`,
+    info: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+  },
+];
