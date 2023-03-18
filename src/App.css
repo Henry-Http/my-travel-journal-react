@@ -79,7 +79,7 @@
   /* border: 1px solid red; */
   float: left;
   /* padding: 20px; */
-  margin-top: -37px;
+  margin-top: -34px;
   margin-left:20px;
   
   /* position: absolute; */
@@ -93,5 +93,6 @@
   margin-left: 210px;
   text-align: justify;
   /* position: relative; */
-  
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
